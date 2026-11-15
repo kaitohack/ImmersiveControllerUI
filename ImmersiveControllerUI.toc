@@ -1,0 +1,14 @@
+## Interface: 16001
+## Title: Immersive Controller UI
+## Notes: A controller-first immersive HUD.
+## Author: You
+## Version: 0.3.0
+## IconTexture: Interface\Icons\INV_Misc_Gear_01
+## Notes: Interface\AddOns\ImmersiveControllerUI\icon.tga
+## SavedVariables: ImmersiveControllerUIDB
+
+Core.lua
+Visibility.lua
+Controller.lua
+UI.lua
+Settings.lua
